@@ -1,0 +1,14 @@
+layout_spectrum: 0.8605908609461039
+typography_spectrum: 0.519417752046138
+color:
+  brandStrength: 0.18427274911664426
+  lightness: 0.4433233253657818
+  saturation: 0.9948763090651482
+  rhythmicContrast: 0.6829985829535872
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+name: rehab focus
